@@ -1,12 +1,7 @@
 Hello, world! ✨</br>
 My name is Celeste, and I am...</br></br>
 
-<div>
-  <a href="https://github.com/rcelest"/>
-  <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=rcelest&show_icons=true&theme=buefy"/>
-</div>
-Currently working on IT Governance</br>
-Learning Computer Network Administration</br></br>
+Currently working on Technical Support</br></br>
 Fun fact 📌 </br>
     researches made by me can approuve that icecream can make you happier </br></br></br></br>
 
